@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Rinku05-2002
-- 👀 I love programming with python.
-- 🌱 I’m currently learning Btech third year from CSE department.
-- 📫 You can mail me if you have any doubt about my code
-- "rinkikalaskar06@gmail.com".
+- ### Hi there, I'm Rinki Kalaskar! 👋
 
-<!---
-Rinku05-2002/Rinku05-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate coder and a Computer Science undergraduate student on a journey to explore the digital realm. Here's a glimpse of what I bring to the world of tech:
+
+- 🚀 Proficient in Python, C++, HTML, CSS, JavaScript, and SQL.
+- 🎓 Currently pursuing my Bachelor's degree in Computer Science, set to graduate in July 2024.
+- 💻 Creator of projects spanning Python, C++, and web development using HTML, CSS, and JavaScript.
+
+Join me as I code, learn, and build exciting projects along the way. Let's connect and explore the ever-evolving world of technology together!
+
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/rinki-kalaskar-b2a8b8274/) to collaborate on innovative projects and share our coding adventures.
+
+Happy coding! 🌟
